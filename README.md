@@ -64,7 +64,7 @@ By linking machine learning performance with regional energy policy contexts, th
   - Precision, recall, F1-score
   - Confusion matrices
 
-## 📊 Key Results
+## Key Results
 
 - **Germany (in-domain)**:
   - Accuracy above 90%
